@@ -1,0 +1,12 @@
+
+/bin/
+/local/
+/*/local/
+
+*~
+*.swp
+_backup/
+/bin/.gitignore
+
+desktop.ini
+
